@@ -1,4 +1,4 @@
-🏦 Bank Analytics Project (MySQL, Excel, Power BI)
+**Bank Analytics Project (MySQL, Excel, Power BI)**
 
 This is a beginner-friendly analytics project using MySQL, Excel, and Power BI to explore banking data.
 The project focuses on:
@@ -19,7 +19,7 @@ This project shows end-to-end skills:
 
 data cleaning → EDA → dashboards.
 
-Project Structure
+**Project Structure**
 ```
 Bank-Project/
 │
@@ -49,7 +49,7 @@ Bank-Project/
           ├── Dashboard.png
           └── Experiment.png
 ```
-What This Project Covers
+**What This Project Covers**
 
 Cleaning customer and transaction data,
 Validating formats (dates, currencies, emails, phone numbers),
