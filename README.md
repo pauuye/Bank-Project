@@ -23,7 +23,7 @@ data cleaning → EDA → dashboards.
 ```
 Bank-Project/
 │
-├── data/                       ← raw bank files
+├── data/ 
 │     ├── Customer.csv
 │     └── Finance.csv
 │
