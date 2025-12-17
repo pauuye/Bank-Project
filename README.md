@@ -30,7 +30,7 @@ Bank-Project/
 ├── MySQL/
 │     ├── README.md
 │     ├── Bank_SQL_EDA.sql
-│     ├── Screenshots
+│     ├── Screenshots/
 │          ├── Alter Datetypes.png
 │          ├── Average % Rate.png
 │          └── Duplicate.png
@@ -38,14 +38,14 @@ Bank-Project/
 ├── Excel/
 │     ├── README.md
 │     ├── Bank.xlsx
-│     ├── Screenshots
+│     ├── Screenshots/
 │          ├── Dashboard.png
 │          └── Summary.png
 │     
 └── PowerBI/
       ├── README.md
       ├── BankTransact_Project_3.pbix
-      └──  Screenshots
+      └──  Screenshots/
           ├── Dashboard.png
           └── Experiment.png
 ```
