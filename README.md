@@ -22,6 +22,7 @@ data cleaning → EDA → dashboards.
 **Project Structure**
 ```
 Bank-Project/
+├── README.md 
 │
 ├── data/ 
 │     ├── Customer.csv
